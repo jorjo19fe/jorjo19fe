@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jorjo19fe
 - 👀 I’m interested in: GAMING,front-end development,game development
-- 🌱 I’m currently learning: web development at <a style="color: red;" href="https://ge.itstep.org">it academy step<a>
+- 🌱 I’m currently learning: web development at <a style="color: red;" href="https://ge.itstep.org">IT academy <strong>STEP<strong><a>
 - 📫 How to reach me : don't reach me :}
 
 <!---
