@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jorjo19fe
-- 🌱 I’m currently learning: web development ![download](https://user-images.githubusercontent.com/93598612/210277436-6446c60d-c186-4d4e-a01a-59983e2dfe05.svg)
+- 🌱 I’m currently learning: web development      <img src="https://user-images.githubusercontent.com/93598612/210277436-6446c60d-c186-4d4e-a01a-59983e2dfe05.svg" width="20px"/>
 
 - 📫 How to reach me : George_Jorjiashvili@outlook.com
 
