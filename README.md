@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @jorjo19fe
-- 🌱 I’m currently learning: web development at <a style="color: red;" href="https://ge.itstep.org">IT academy <strong>STEP<strong><a>
+- 🌱 I’m currently learning: web development ![download](https://user-images.githubusercontent.com/93598612/210277436-6446c60d-c186-4d4e-a01a-59983e2dfe05.svg)
+
 - 📫 How to reach me : George_Jorjiashvili@outlook.com
+
 
 <!---
 jorjo19fe/jorjo19fe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
